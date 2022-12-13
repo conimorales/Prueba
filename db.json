@@ -1,5 +1,12 @@
+
 {
   "data": [
-    {"name":"Gasto 1", "id":"1", "description":"Ejemplo 1", "cost":0}
-]
+    {
+      "id": 1,
+      "name":"Gasto 1",
+      "description":"Ejemplo 1", 
+      "cost":0
+      
+    }
+  ],
 }
